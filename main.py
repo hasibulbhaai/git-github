@@ -3,3 +3,4 @@ with open ('test.txt') as file:
 capital = content.upper()
 print(capital)
 print("Bye!!!")
+print("DOne !!!")
